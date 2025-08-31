@@ -1,4 +1,3 @@
-## Hello Guyss
-
-* Let's start with Git_tutorials............
+ Hello Guys 
+ Let's start with Git_tutorials
 
